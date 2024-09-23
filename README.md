@@ -22,7 +22,7 @@ Certificates:
   - [Python (Basic)](https://www.hackerrank.com/certificates/4158909decb1)
   - [Python (Intermediate)](https://www.hackerrank.com/certificates/715ec364a97f)
   - [Java (Basic)](https://www.hackerrank.com/certificates/c0a392d556ed)
-  - [Java (Intermediate)(https://www.hackerrank.com/certificates/b34fa47d298c)
+  - [Java (Intermediate)](https://www.hackerrank.com/certificates/b34fa47d298c)
   - [C++ (Basic)](https://www.hackerrank.com/certificates/bc69552d0b16)
   - [C++ (Intermediate)](https://www.hackerrank.com/certificates/c4a815a6a9a7)
   - [SQL (Basic)](https://www.hackerrank.com/certificates/34009b4d3901)
