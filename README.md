@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - Well-versed in DevOps practices like CI/CD, Docker, and Kubernetes, as well as cloud technologies on AWS and Azure. <br>
 </h4>
 
-Certificates:
+Certificates from Hackerrank:
   - [Python (Basic)](https://www.hackerrank.com/certificates/4158909decb1)
   - [Python (Intermediate)](https://www.hackerrank.com/certificates/715ec364a97f)
   - [Java (Basic)](https://www.hackerrank.com/certificates/c0a392d556ed)
