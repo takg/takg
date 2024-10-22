@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4> 
+
   Developer with over 15+ years of extensive experience delivering value through cutting-edge technology solutions. <br>
   - Proficient in programming languages such as C++,  Python, C and Perl, with strong expertise in databases including Postgres, Oracle, Sybase IQ, SQL Server, and MongoDB across Linux, Unix, and Windows environments. <br>
   - Well-versed in DevOps practices like CI/CD, Docker, and Kubernetes, as well as cloud technologies on AWS and Azure. <br>
-</h4>
+
 
 Certificates from Hackerrank:
   - [Python (Basic)](https://www.hackerrank.com/certificates/4158909decb1)
