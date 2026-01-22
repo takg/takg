@@ -3,7 +3,7 @@
 -->
 
 
-Senior Software Engineer with 20+ years of experience delivering scalable, reliable, and high-performance technology solutions across domains.
+Software Engineer with 20+ years of experience delivering scalable, reliable, and high-performance technology solutions across domains.
 
 🚀 About Me
 - 💻 Strong background in system-level and backend development
