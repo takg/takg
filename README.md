@@ -36,3 +36,6 @@ Software Engineer with 20+ years of experience delivering scalable, reliable, an
 I enjoy breaking down complex system concepts into simple, interview-friendly explanations.
 
 ⭐️ If you find my repositories useful, feel free to star them!
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=takg)](https://git.io/streak-stats)
