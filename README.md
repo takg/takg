@@ -37,6 +37,3 @@ I enjoy breaking down complex system concepts into simple, interview-friendly ex
 
 ⭐️ If you find my repositories useful, feel free to star them!
 
-## Github Streak
-
-(https://github-readme-streak-stats.herokuapp.com/?user=takg)](https://git.io/streak-stats)
